@@ -2,5 +2,6 @@
 
 Disclaimer:
 
-Do not claim my work as your own.
-I am not accountable for any consquences that may occurred if you intend on copying my work.
+I maintain all intellectual property rights in this repository.
+The work in this repository may not be reused under any circumstances.
+I do not hold any accountability for any consquences that may occurred if you intend on reusing my work.
